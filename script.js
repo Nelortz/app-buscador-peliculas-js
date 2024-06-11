@@ -1,6 +1,6 @@
 document.getElementById('searchButton').addEventListener('click', searchMovies)
 
-let api_key = 'c8c6f0cc7f9d2bfe0e331312dcc280f0'
+let api_key = 'INSERT_YOUR_API_KEY'
 let urlBase = 'https://api.themoviedb.org/3/search/movie'
 let urlImg = 'https://image.tmdb.org/t/p/w200'
 
